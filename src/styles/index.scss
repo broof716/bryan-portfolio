@@ -5,6 +5,15 @@ html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
 }
+
+.box {
+  float: left;
+  
+  width: 42.5%;
+  margin-left: 5%;
+  margin-top: 80px;
+}
+
 body {
   background-image: url('../img/code.png');
   background-size: cover;

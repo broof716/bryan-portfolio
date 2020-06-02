@@ -20,7 +20,7 @@ export default function Header() {
             <Link className={headerStyles.navItem} activeClassName={headerStyles.activeNavItem} to="/blog">Projects</Link>
           </li>
           <li>
-            <Link className={headerStyles.navItem} activeClassName={headerStyles.activeNavItem} to="/about">About</Link>
+            <Link className={headerStyles.navItem} activeClassName={headerStyles.activeNavItem} to="/about">Skills</Link>
           </li>
           <li>
             <Link className={headerStyles.navItem}  to="/contact">Contact</Link>
